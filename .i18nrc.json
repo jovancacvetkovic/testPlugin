@@ -1,0 +1,9 @@
+{
+  "prefix": "testDashboard",
+  "paths": {
+    "testDashboard": "."
+  },
+  "translations": [
+    "translations/en-US.json"
+  ]
+}
